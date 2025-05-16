@@ -1,0 +1,12 @@
+matplotlib
+pandas
+plotly
+seaborn
+yfinance
+pyfolio
+ipykernel
+ipywidgets
+bokeh ==2.4.3
+numpy == 1.23.5
+nbformat == 5.10.4
+kaleido
